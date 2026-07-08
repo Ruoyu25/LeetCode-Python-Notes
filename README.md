@@ -1,8 +1,5 @@
 # LeetCode-Python-Notes
 My Python solutions and notes for LeetCode problems.
-# LeetCode Python Notes
-
-This repository contains my Python solutions and notes for LeetCode problems.
 
 ## Purpose
 
